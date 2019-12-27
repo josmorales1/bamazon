@@ -28,4 +28,4 @@ VALUES
     (7, "XBOXONE", "Electronics", 149.99, 14),
     (8, "mouse", "Electronics", 9.99, 15),
     (9, "Samsung Tv", "Electronics", 199.99, 20),
-    (10, "MacBook Air", "Electronics", 699.99, 10)
+    (10, "MacBook Air", "Electronics", 799.99, 10)
