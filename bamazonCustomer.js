@@ -39,7 +39,7 @@ function purchasePrompt() {
             name: "id",
             type: "input",
             message: "enter item id you would like to purhcase.",
-            filter: mumber
+            filter: Number
         },
         {
             name: "quantity",
