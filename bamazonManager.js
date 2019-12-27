@@ -86,7 +86,7 @@ function addRequest() {
         {
             name: "id",
             type: "input",
-            message: "Add ID Number"
+            message: "add id number"
 
         },
         {
